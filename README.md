@@ -4,7 +4,7 @@ The tax_cleaning function is designed to clean and standardize taxonomy data in 
 # Installation
 You can install the package using the following command:
 ```
-devtools::install_github("username/repo")
+devtools::install_github("shashank-KU/repo")
 ```
 
 # Usage
